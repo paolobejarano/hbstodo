@@ -54,6 +54,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
+    "https://hbstodo-frontend.vercel.app", # Live demo
 ]
 
 ROOT_URLCONF = 'hbstodo.urls'
