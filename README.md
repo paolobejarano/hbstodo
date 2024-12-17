@@ -42,3 +42,6 @@ Find instructions [here](https://github.com/paolobejarano)
 
 `DELETE /api/tasks/:id`
 
+## Live demo
+
+Find live demo [here](https://hbstodo-2d65bdd8fa90.herokuapp.com/api/tasks)
